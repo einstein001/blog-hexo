@@ -105,3 +105,8 @@ deploy:
   type: git
   repository: https://github.com/einstein001/einstein001.github.io.git
   branch: master
+
+# Extensions
+## Plugins: http://hexo.io/plugins/
+plugins: hexo-generate-feed
+
